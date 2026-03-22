@@ -14,22 +14,6 @@ You must subjugate an order of Death Knights who have secured the knowledge need
 
 Although we have no Dragons to command, we have learned that Grom Hellscream, leader of the Warsong clan, has been captured by the Laughing Skull and is being held prisoner. Free him and he will surely aid you in your battles.
 
-Your capture of the Jeweled Scepter has greatly pleased Ner'zhul. Word has come that you are to entrust it to the remaining warriors of the Bleeding Hollow clan as they are to return it to Draenor at all haste.
-
-Deathwing and his Dragons deliver you to the Keep at Alterac. While you could easily bring these curs to their knees, they have hidden the tome you seek. They are also cunning enough to strike a bargain, knowing it is their only salvation. Should they tell you the location of the Book, however, they fear the retribution of the Nations of Lordaeron and Stromgarde. They would be willing to exchange the Book of Medivh for the destruction of these forces that sit along their borders.
-
-You must eliminate the military outposts maintained by Lordaeron and Stromgarde. Then seal your pact by entering into Alterac, contacting the Human Mage who guards the Book, and escorting him to safety.
-
-With the Book of Medivh in your control and the Jeweled Scepter delivered to Ner'zhul, only one artifact remains to be won. The Mages of Dalaran have created a device to focus their magics in an effort to reconstruct the Violet Citadel. Ner'zhul desires this Eye of Dalaran to focus the dark powers of the underworld for the creation of his portals.
-
-Teron Gorefiend has traveled to the stronghold of the Human Mages at Cross Island, where they now rebuild their towers amid heavy fortifications. You must break through their shoreline defenses, establish a base, and capture the Eye of Dalaran. No walls will protect them from the vengeance of the Horde.
-
-As the burning remains of your victims fill the air with acrid smoke, the sky fills with a figure as black as night. Deathwing descends, exhausted from his long journey from Grim Batol, bearing grave news from his brothers at Blackrock Spire.
-
-The Alliance has sent a host of warriors to the Black Morass and has engaged the forces of Warsong and Shattered Hand at the Dark Portal. You must rally the forces of Shadowmoon to break through this siege and return the artifacts you have secured to Draenor. Only then can Ner'zhul's plan of opening portals to new worlds be realized.
-
-Succeed and you will command vast armies as they ravage untold worlds. Fail and be slaughtered.
-
 The skull of Gul'dan is a powerful artifact and essential for resurrecting the Dark Portal. A pathetic Orc Captain of the Bonechewer clan wears the skull as a symbol of his station and does not know of its true power.
 
 Ner'zhul has sent the Ogre hero, Dentarg, to influence warriors from the Thunderlord clan to join in the battle against the Bonechewers. You will also be assisted by the warriors of the Shattered Hand and their leader Korgath Bladefist.
@@ -65,6 +49,23 @@ Now that you have cleared a path to the island of Kul Tiras, you must send your 
 Now that the Great Sea is once again under the dominion of our wave riders, Ner'zhul has come upon a plan to increase the powers of the Dark Portal. While he was the tutor of Gul'dan, the Shaman bound their souls so that he could keep watch over his disciple. Even though Gul'dan knew that this link would serve to inform Ner'zhul of the Warlock's studies with the spirits that dwelt in the Twisting Nether, he was too arrogant to care.
 
 Ner'zhul has ordered you to lead a small band to the tomb in order to find the Jeweled Scepter of Sargeras. The remains of the Stormreaver and Twilight's Hammer encampment surround the entrance to the tomb and the howling of their tortured souls fill the air. Although the inhabitants of this place died long ago, their bodies have been torn from earthen graves by the vile magics of the Daemons and made to stalk this region for all eternity.
+
+
+Your capture of the Jeweled Scepter has greatly pleased Ner'zhul. Word has come that you are to entrust it to the remaining warriors of the Bleeding Hollow clan as they are to return it to Draenor at all haste.
+
+Deathwing and his Dragons deliver you to the Keep at Alterac. While you could easily bring these curs to their knees, they have hidden the tome you seek. They are also cunning enough to strike a bargain, knowing it is their only salvation. Should they tell you the location of the Book, however, they fear the retribution of the Nations of Lordaeron and Stromgarde. They would be willing to exchange the Book of Medivh for the destruction of these forces that sit along their borders.
+
+You must eliminate the military outposts maintained by Lordaeron and Stromgarde. Then seal your pact by entering into Alterac, contacting the Human Mage who guards the Book, and escorting him to safety.
+
+With the Book of Medivh in your control and the Jeweled Scepter delivered to Ner'zhul, only one artifact remains to be won. The Mages of Dalaran have created a device to focus their magics in an effort to reconstruct the Violet Citadel. Ner'zhul desires this Eye of Dalaran to focus the dark powers of the underworld for the creation of his portals.
+
+Teron Gorefiend has traveled to the stronghold of the Human Mages at Cross Island, where they now rebuild their towers amid heavy fortifications. You must break through their shoreline defenses, establish a base, and capture the Eye of Dalaran. No walls will protect them from the vengeance of the Horde.
+
+As the burning remains of your victims fill the air with acrid smoke, the sky fills with a figure as black as night. Deathwing descends, exhausted from his long journey from Grim Batol, bearing grave news from his brothers at Blackrock Spire.
+
+The Alliance has sent a host of warriors to the Black Morass and has engaged the forces of Warsong and Shattered Hand at the Dark Portal. You must rally the forces of Shadowmoon to break through this siege and return the artifacts you have secured to Draenor. Only then can Ner'zhul's plan of opening portals to new worlds be realized.
+
+Succeed and you will command vast armies as they ravage untold worlds. Fail and be slaughtered.
 
 Ner'zhul holds the ancient scepter of Sargeras in the air and intones the final words of the Spell of Conjuration. The air above you begins to swirl and presses down upon the assembled masses of the Horde. Above you, the crimson skies break open and reveal the chaotic pathways of the Twisting Nether.
 
