@@ -1,20 +1,5 @@
 Due to your position as regional commander of the southern defense forces, Lord Terenas commands that you raise an outpost in the Hillsbrad foothills. It is rumored that Orcish marauders have been raiding coastal towns in the area, but whether these attacks are part of a greater Horde offensive is, as yet, unknown.
-
 Your outpost is to provide food and information for Alliance troops and, as such, should be a community consisting of at least four Farms. You must also construct a Barracks in order to safeguard the Hillsbrad operation.
-
-Following the battle at Caer Darrow, a number of renegade Alterac soldiers were captured. A crew of Alterac sailors were also caught assisting the Horde during the battle and have been placed under close guard. Under the edict of Lord Lothar, you are to restrain the prisoners until they can be escorted to the capital of Lordaeron for interrogation.
-
-Lord Lothar sends word that the Alliance has been betrayed. Lord Perenolde - sovereign ruler of Alterac - has been working with the Horde since the beginning of the war. It was Perenolde who provided the Orcs with the routes of the Elven strikeforce passing through Tarren Mill. The rebellion at Tyr's Hand was also started by Alterac spies in hopes of concealing the Orcish mining facility located there.
-
-The High Command has decreed that the nation of Alterac has committed treason against the Alliance and their union with the Orcish Hordes must be broken. You must free those unjustly held by Perenolde and enlist their aid in launching an attack against Alterac's capital.
-
-With the destruction of Alterac, the Orcish armies in the north have staged a massive retreat. Admiral Proudmoore sends word that Gnomish Submarines have located the Horde's main naval base near Crestfall. Proudmoore believes that the Orcs plan to launch the remainder of their armada and retreat to the mainland of Azeroth. Lord Lothar has ordered that you destroy the base at Crestfall before the fleet can escape.
-
-The remnants of the routed Orcish fleet have managed to reach the northern shores of Azeroth. Admiral Proudmoore believes that the Horde will attempt to reinforce their main Fortress at Blackrock Spire. Leading a large strikeforce of Lordaeron troops, Lord Lothar was sent to attempt a parlay with the Orcish Chieftain Orgrim Doomhammer. No reports have been heard in days...
-
-Assuming the worst, Admiral Proudmoore and King Terenas agree that it falls upon you to stage a final siege upon Blackrock Spire. The feral Dwarves of the Northeron wildlands have offered the service of their Gryphon Riders to assist in the decimation of the foul Orcs that have desecrated their homeland and slain the leader of the Alliance forces.
-
-The Orcs have been driven from the Northlands as the hulking remains of Blackrock Spire lay silent amongst the freed lands of Azeroth. The battered remains of the once mighty Horde have rallied to protect their last bastion of hope - the Great Portal. With Lord Lothar dead, you have been given the duty of leading the forces of Lordaeron to ultimate victory over the Horde - a victory that lies with the destruction of the Great Portal itself... 
 
 The mysterious Elves of Silvermoon have sent a contingent of Archers south to survey the supposed Orcish threat for themselves. Our spies report that shortly after passing through the Alterac grasslands the Elves were ambushed by Horde troops. It is believed that these Elves are now being held in a small prison camp near the northwest region of Tarren Mill.
 
@@ -36,7 +21,7 @@ Following their defeat at Dun Modr, the Orcs were forced to retreat south, acros
 
 Advance scouts report that they have located Grim Batol - the primary base of the Horde's Refinery operations in Khaz Modan. Seeing a chance to strike a decisive blow against the Horde, Lord Lothar has ordered that you infiltrate Grim Batol and put an end to all Orcish activity there.
 
- Once Grim Batol has been destroyed, Lothar believes that the Orcs will have no further use for Khaz Modan, thus pulling their forces back to the mainland of Azeroth. Victory could secure the shores of Lordaeron and greatly impede the Horde offensive.
+Once Grim Batol has been destroyed, Lothar believes that the Orcs will have no further use for Khaz Modan, thus pulling their forces back to the mainland of Azeroth. Victory could secure the shores of Lordaeron and greatly impede the Horde offensive.
 
 With the destruction of Dun Modr and the downfall of Grim Batol, the Orcs have completely withdrawn their armies from Khaz Modan. While your victories have been notable, the menace of the Horde still hangs over the head of the Alliance. Lord Lothar has stationed your troops in the northlands to protect the borders of Quel'thalas.
 
@@ -44,6 +29,19 @@ Troubles have arisen in the township of Tyr's Hand, with the local peasant popul
 
 With his Paladins keeping vigilant watch over the northlands, the Archbishop's assistant Uther Lightbringer of Lordaeron has come to offer comfort to those who are suffering the misfortunes of war. Lord Lothar has entrusted you with the protection of the Paladins' Commander and his entourage as they travel to the island township of Caer Darrow.
 
+Following the battle at Caer Darrow, a number of renegade Alterac soldiers were captured. A crew of Alterac sailors were also caught assisting the Horde during the battle and have been placed under close guard. Under the edict of Lord Lothar, you are to restrain the prisoners until they can be escorted to the capital of Lordaeron for interrogation.
+
+Lord Lothar sends word that the Alliance has been betrayed. Lord Perenolde - sovereign ruler of Alterac - has been working with the Horde since the beginning of the war. It was Perenolde who provided the Orcs with the routes of the Elven strikeforce passing through Tarren Mill. The rebellion at Tyr's Hand was also started by Alterac spies in hopes of concealing the Orcish mining facility located there.
+
+The High Command has decreed that the nation of Alterac has committed treason against the Alliance and their union with the Orcish Hordes must be broken. You must free those unjustly held by Perenolde and enlist their aid in launching an attack against Alterac's capital.
+
+With the destruction of Alterac, the Orcish armies in the north have staged a massive retreat. Admiral Proudmoore sends word that Gnomish Submarines have located the Horde's main naval base near Crestfall. Proudmoore believes that the Orcs plan to launch the remainder of their armada and retreat to the mainland of Azeroth. Lord Lothar has ordered that you destroy the base at Crestfall before the fleet can escape.
+
+The remnants of the routed Orcish fleet have managed to reach the northern shores of Azeroth. Admiral Proudmoore believes that the Horde will attempt to reinforce their main Fortress at Blackrock Spire. Leading a large strikeforce of Lordaeron troops, Lord Lothar was sent to attempt a parlay with the Orcish Chieftain Orgrim Doomhammer. No reports have been heard in days...
+
+Assuming the worst, Admiral Proudmoore and King Terenas agree that it falls upon you to stage a final siege upon Blackrock Spire. The feral Dwarves of the Northeron wildlands have offered the service of their Gryphon Riders to assist in the decimation of the foul Orcs that have desecrated their homeland and slain the leader of the Alliance forces.
+
+The Orcs have been driven from the Northlands as the hulking remains of Blackrock Spire lay silent amongst the freed lands of Azeroth. The battered remains of the once mighty Horde have rallied to protect their last bastion of hope - the Great Portal. With Lord Lothar dead, you have been given the duty of leading the forces of Lordaeron to ultimate victory over the Horde - a victory that lies with the destruction of the Great Portal itself... 
 
 Quiet settles over the Black Morass with the blackened, burning remains of the cursed Portal serving as a solemn reminder of the evil that once stood here. After the long and savage battle, you stand victorious over the tattered remnants of the once mighty Orcish Hordes. Those Orcs that survived the conflict have fled to the northeast in hopes of escaping your vengeance. You allow them their reprieve, knowing that the power of the Horde has been forever broken and that the lands of Azeroth belong to its native sons and daughters once again.
 
