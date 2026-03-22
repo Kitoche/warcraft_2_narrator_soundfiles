@@ -1,21 +1,5 @@
 The Horde is preparing to launch an assault against the mainland of Lordaeron. Orgrim Doomhammer - War Chief of the Orcish Hordes and Ruler of the Blackrock clan - has ordered you to establish a small outpost on Lordaeron's southern shores. To secure the Zul'dare region as Doomhammer demands you will need to construct a Barracks and several Farms to feed your troops. Your success may help us determine the extent of the pathetic Human defenses and what resistance they can offer against our forces. 
 
-Stratholme, the chief source of Alliance Oil in the north, is preparing to deliver massive amounts of Oil to the kingdoms in western Lordaeron. You must sabotage their Refineries and Platforms to halt this shipment. Once Stratholme's ability to gather and process Oil is destroyed, proceed to crush any and all resistance offered by the Alliance. 
-
-With the destruction of Stratholme, the Alliance supply lines to Quel'thalas have been severed. Only a handful of Human and Elven defenders remain to safeguard the ancient Elf kingdom from the onslaught of the Horde. The enchanted domain of the Elves has inspired Gul'dan to unleash his most perverted creation - the Death Knights.
-
-Formed from the corpses of the fallen Knights of Azeroth, these once proud defenders of Humanity now serve the Horde in a blasphemous state of eternal undeath. Conjuring dark spells of necromantic horror upon their terrified foes, these Death Knights seek to unleash their wrath upon any foolish enough to stand in their way.
-
-The Northlands have fallen, and now only the western regions of Lordaeron stand defiant before the ultimate supremacy of the Horde. As the Orc clans prepare for their final, massive campaign against the weakening Alliance, the War Chief sends you ill tidings...
-
-Gul'dan and his Stormreaver clan have betrayed the Horde and coerced the Twilight's Hammer clan to set sail and search for an ancient tomb said to be buried beneath the waves. An infiltrator under the direction of Doomhammer reports that Gul'dan has indeed raised volcanic islands from the ocean floor and thus has opened a hidden vault. While it is unknown what the great Warlock has released from this tomb, the War Chief has issued this command - Destroy the renegade clans and return with the head of Gul'dan.
-
-The hour of judgment is close at hand as the Orcish Hordes stand ready to sweep across this domain like a pestilence and seize the capital of Lordaeron. Standing vigilant above the plains like the descending arm of twilight itself, is the Violet Citadel of Dalaran. The Citadel - serving as sanctum and haven to the Mages of Lordaeron - is the last barrier between the Orcs and their subjugation of Humanity. Manifested in the combined magical prowess of all Mages within the Alliance, this place must fall for the Horde to conquer Lordaeron.
-
-Fortunately, Orgrim Doomhammer has saved his greatest weapon, ready to unleash it upon the unsuspecting Alliance at just this moment - Dragons.
-
-The alabaster parapets of Lordaeron's capital loom before you in the distance. The proud, defiant armies of the Alliance stand resolute in their final, fleeting moments. All that remains is the shrill, clarion call to battle and the fulfillment of our destiny. The tides of darkness are now at hand! 
-
 Our spies report that a band of Human soldiers have captured a war party led by Troll commander Zuljin and have taken them to a secret prison near the township of Hillsbrad.
 
 Seeing an opportunity to place these captives in debt to the Horde, Doomhammer sends you to ransom Zuljin and his Trolls and return them to their own encampment nearby.
@@ -47,6 +31,23 @@ The Human fleet has captured a group of our Transports just south of Stromgarde.
 Your forces have been assigned to an area along the southern border of the Elven kingdom of Quel'thalas. Gul'dan, hoping to sow the seeds of chaos among the Human and Elven allies, has located a mysterious Elven artifact near the Keep of Caer Darrow. This huge, monolithic Runestone is guarded by a Human Castle on the small island located in the middle of Darrowmere Lake. You must destroy the forces that guard this relic and gain control of the Runestone for use by the 
 
 With the capture of the Elven Runestone, Gul'dan has been able to warp the power it contains to mutate an entire legion of his loyal and ruthless Ogres into wielders of arcane magiks. Along with this transformation these Ogre-Magi have been granted deadly magiks and a malicious cunning rivaling that of Gul'dan himself. You are to employ the Ogre-Magi in the creation and defense of a Fortress at the mouth of Tyr's Bay, cutting off the Human supply lines into Quel'thalas. 
+
+
+Stratholme, the chief source of Alliance Oil in the north, is preparing to deliver massive amounts of Oil to the kingdoms in western Lordaeron. You must sabotage their Refineries and Platforms to halt this shipment. Once Stratholme's ability to gather and process Oil is destroyed, proceed to crush any and all resistance offered by the Alliance. 
+
+With the destruction of Stratholme, the Alliance supply lines to Quel'thalas have been severed. Only a handful of Human and Elven defenders remain to safeguard the ancient Elf kingdom from the onslaught of the Horde. The enchanted domain of the Elves has inspired Gul'dan to unleash his most perverted creation - the Death Knights.
+
+Formed from the corpses of the fallen Knights of Azeroth, these once proud defenders of Humanity now serve the Horde in a blasphemous state of eternal undeath. Conjuring dark spells of necromantic horror upon their terrified foes, these Death Knights seek to unleash their wrath upon any foolish enough to stand in their way.
+
+The Northlands have fallen, and now only the western regions of Lordaeron stand defiant before the ultimate supremacy of the Horde. As the Orc clans prepare for their final, massive campaign against the weakening Alliance, the War Chief sends you ill tidings...
+
+Gul'dan and his Stormreaver clan have betrayed the Horde and coerced the Twilight's Hammer clan to set sail and search for an ancient tomb said to be buried beneath the waves. An infiltrator under the direction of Doomhammer reports that Gul'dan has indeed raised volcanic islands from the ocean floor and thus has opened a hidden vault. While it is unknown what the great Warlock has released from this tomb, the War Chief has issued this command - Destroy the renegade clans and return with the head of Gul'dan.
+
+The hour of judgment is close at hand as the Orcish Hordes stand ready to sweep across this domain like a pestilence and seize the capital of Lordaeron. Standing vigilant above the plains like the descending arm of twilight itself, is the Violet Citadel of Dalaran. The Citadel - serving as sanctum and haven to the Mages of Lordaeron - is the last barrier between the Orcs and their subjugation of Humanity. Manifested in the combined magical prowess of all Mages within the Alliance, this place must fall for the Horde to conquer Lordaeron.
+
+Fortunately, Orgrim Doomhammer has saved his greatest weapon, ready to unleash it upon the unsuspecting Alliance at just this moment - Dragons.
+
+The alabaster parapets of Lordaeron's capital loom before you in the distance. The proud, defiant armies of the Alliance stand resolute in their final, fleeting moments. All that remains is the shrill, clarion call to battle and the fulfillment of our destiny. The tides of darkness are now at hand! 
 
 The victory pyres burn high into the twilight skies covering the ruined capital of Lordaeron. Your success has led Orgrim Doomhammer - War Chief of the Orcish Hordes - to elevate you to the station of Warlord, thus giving you power and the command of your own clan. The Alliance has finally been crushed, with all those surviving being slain and cremated as is dictated by the rituals. At long last Azeroth and all of its lands belong to the thunderous force known to those foolish enough to stand in its way as the Horde!
 
